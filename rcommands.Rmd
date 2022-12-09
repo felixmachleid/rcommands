@@ -8,6 +8,7 @@ output: html_document
 ## Resources 
 Connecting RStudio and GitHub: https://resources.github.com/github-and-rstudio/
 
+Ideally, each commit contains an isolated, complete change. This makes it easy to revert your changes if you decide to take a different approach.
 
 
 ```{r setup, include=FALSE}
